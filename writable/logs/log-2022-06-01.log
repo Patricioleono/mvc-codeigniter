@@ -1,0 +1,23 @@
+CRITICAL - 2022-06-01 22:39:03 --> print_r() expects at most 2 arguments, 3 given
+#0 C:\xampp\htdocs\ci\app\Controllers\Beer.php(33): print_r('fsd', 'hgffdsf', NULL)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->guardar()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 22:39:20 --> print_r() expects at most 2 arguments, 3 given
+#0 C:\xampp\htdocs\ci\app\Controllers\Beer.php(33): print_r('fsd', 'hgffdsf', NULL)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->guardar()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 22:48:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Beer.php(39): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->guardar()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

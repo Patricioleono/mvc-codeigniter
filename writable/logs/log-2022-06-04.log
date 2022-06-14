@@ -1,0 +1,296 @@
+CRITICAL - 2022-06-04 21:22:59 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:22:59 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:22:59 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:24:28 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:24:56 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:41:29 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:44:15 --> Cannot use object of type App\Models\Cerveza as array
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-04 21:51:36 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('10')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:51:46 --> Undefined variable $header
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 1)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/crear', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Home.php(9): view('cervezas/crear')
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:52:15 --> Undefined variable $datos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 21:55:31 --> Undefined variable $contenedorDatos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(65): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:06:25 --> Undefined variable $contenedorDatos
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:17:50 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:18:25 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:18:28 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:18:40 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-04 22:19:14 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-04 22:20:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':12:
+ LIMIT 1' at line 3
+CRITICAL - 2022-06-04 22:20:54 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\ci\app\Controllers\Beer.php(59): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-06-04 22:21:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':12:
+ LIMIT 1' at line 3
+CRITICAL - 2022-06-04 22:21:54 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\ci\app\Controllers\Beer.php(60): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-06-04 22:21:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':12:
+ LIMIT 1' at line 3
+CRITICAL - 2022-06-04 22:21:57 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\ci\app\Controllers\Beer.php(60): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-06-04 22:21:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':12:
+ LIMIT 1' at line 3
+CRITICAL - 2022-06-04 22:21:58 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\ci\app\Controllers\Beer.php(60): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-06-04 22:22:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':12:
+ LIMIT 1' at line 3
+CRITICAL - 2022-06-04 22:22:00 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\ci\app\Controllers\Beer.php(60): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-04 22:22:24 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:25:01 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(66): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:28:33 --> Undefined array key "namebeer"
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(68): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:28:48 --> Undefined array key "namebeer"
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(68): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:28:59 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\editar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/editar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(68): view('cervezas/editar', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->editar('12')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 22:48:20 --> Undefined variable $header
+#0 C:\xampp\htdocs\ci\app\Views\cervezas\listar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 1)
+#1 C:\xampp\htdocs\ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1089): CodeIgniter\View\View->render('cervezas/listar', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Beer.php(80): view('cervezas/listar')
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(832): App\Controllers\Beer->actualizar()
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beer))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
