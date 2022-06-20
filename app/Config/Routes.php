@@ -30,8 +30,13 @@ $routes->setAutoRoute(true);
  */
 
 //seleccionador de ruta, el usuario pide y la ruta lo dirige
- $routes->get('/', 'Home::index');
-
+ $routes->get('/', 'Beer::index');
+ $routes->get('listar', 'Beer::index');
+ $routes->get('crear', 'Beer::crear');
+ $routes->post('guardar', 'Beer::guardar');
+ $routes->get('borrar/(:num)', 'Beer::borrar/$1');
+ $routes->get('editar/(:num)', 'Beer::editar/$1');
+ $routes->post('actualizar', 'Beer::actualizar');
 /*
  * --------------------------------------------------------------------
  * Additional Routing
@@ -48,9 +53,3 @@ $routes->setAutoRoute(true);
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
 }
-$routes->get('listar', 'Beer::index');
-$routes->get('crear', 'Beer::crear');
-$routes->post('guardar', 'Beer::guardar');
-$routes->get('borrar/(:num)', 'Beer::borrar/$1');
-$routes->get('editar/(:num)', 'Beer::editar/$1');
-$routes->post('actualizar', 'Beer::actualizar');

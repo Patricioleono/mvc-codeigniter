@@ -1,4 +1,4 @@
-<?= $header; ?>
+<?=$header;?>
 <?php if(session('mensaje')){?>
 
 
@@ -35,4 +35,4 @@
   </div>
 </div>
 
-<?= $footer; ?>
+<?=$footer;?>
