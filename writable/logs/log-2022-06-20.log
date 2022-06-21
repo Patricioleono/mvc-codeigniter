@@ -1,0 +1,86 @@
+CRITICAL - 2022-06-20 21:04:37 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:05:30 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:06:10 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:06:39 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:11:13 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:12:19 --> Undefined variable $game
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#2 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#3 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-20 21:43:05 --> Undefined variable $data
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Views\games\listarGame.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\mvc-codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('games/listarGam...', Array, true)
+#4 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(20): view('games/listarGam...', Array)
+#5 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#6 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#7 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 21:44:06 --> Undefined variable $data
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Views\games\listarGame.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\mvc-codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('games/listarGam...', Array, true)
+#4 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(20): view('games/listarGam...', Array)
+#5 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#6 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#7 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 21:49:07 --> Undefined variable $data
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Views\games\listarGame.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\mvc-codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('games/listarGam...', Array, true)
+#4 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(20): view('games/listarGam...', Array)
+#5 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#6 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#7 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 21:49:42 --> Undefined variable $data
+#0 C:\xampp\htdocs\mvc-codeigniter\app\Views\games\listarGame.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mvc-codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\mvc-codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('games/listarGam...', Array, true)
+#4 C:\xampp\htdocs\mvc-codeigniter\app\Controllers\VideoGame.php(20): view('games/listarGam...', Array)
+#5 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(832): App\Controllers\VideoGame->listarGames()
+#6 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VideoGame))
+#7 C:\xampp\htdocs\mvc-codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\mvc-codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

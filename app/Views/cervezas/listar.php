@@ -3,6 +3,7 @@
 
 <br/>
 <a class="btn btn-primary" href="<?=base_url('crear')?>">Ingresar Producto</a>
+<a class="btn btn-primary" href="<?=base_url('listarGame')?>">FORMULARIO AJAX</a>
 <br/>
 <br/>
 

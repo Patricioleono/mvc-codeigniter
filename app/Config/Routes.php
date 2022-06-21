@@ -37,7 +37,11 @@ $routes->setAutoRoute(true);
  $routes->get('borrar/(:num)', 'Beer::borrar/$1');
  $routes->get('editar/(:num)', 'Beer::editar/$1');
  $routes->post('actualizar', 'Beer::actualizar');
-/*
+
+//Ajax Rutas
+$routes->get('listarGame', 'VideoGame::listarGames'); 
+
+ /*
  * --------------------------------------------------------------------
  * Additional Routing
  * --------------------------------------------------------------------
